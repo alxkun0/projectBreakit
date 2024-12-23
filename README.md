@@ -1,6 +1,12 @@
 # Disclaimer!!!
 Do not PUSH new code muna
 
+# Tech needed
+Firebase Auth (Login & Signup Authentication)
+Backend Server or JSON for storage
+OpenAI API for project breakdown generation
+
+
 
 # Welcome to your Expo app 👋
 
