@@ -1,0 +1,12 @@
+# Normalize all text files to LF in the repository
+* text=auto
+
+# Force LF for specific file types
+*.sh text eol=lf
+*.yml text eol=lf
+*.json text eol=lf
+*.tsx text eol=lf
+*.ts text eol=lf
+
+# Force CRLF for specific file types (if needed)
+*.bat text eol=crlf
